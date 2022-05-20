@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developershanker
+- 👋 Hi, I’m Bhawana Shanker aka @developershanker
 - 👀 I’m interested in making innovative out of new ideas
 - 🌱 I’m currently learning to be master in FrontEnd Developement
 - 📫 How to reach me on following channels:

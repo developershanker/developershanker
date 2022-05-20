@@ -2,6 +2,7 @@
 - 👀 I’m interested in making innovative out of new ideas
 - 🌱 I’m currently learning to be master in FrontEnd Developement
 - 📫 How to reach me on following channels:
+
 Linkedin : https://www.linkedin.com/in/bhawanashanker/
 Gmail: mailto:bhawanashanker22dec@gmail.com
 Facebook: https://www.facebook.com/Ruchi1295/

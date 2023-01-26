@@ -6,7 +6,7 @@
 Linkedin : https://www.linkedin.com/in/bhawanashanker/
 Gmail: mailto:bhawanashanker22dec@gmail.com
 Facebook: https://www.facebook.com/Ruchi1295/
-Instagram: https://www.instagram.com/bhawana.shanker/
+Instagram: https://www.instagram.com/i_m_in_metanoia/
 WhatsApp: https://wa.me/918319098165?text=
 
 

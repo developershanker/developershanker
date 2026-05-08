@@ -1,16 +1,21 @@
-- 👋 Hi, I’m Bhawana Shanker aka @developershanker
-- 👀 I’m interested in making innovative out of new ideas
-- 🌱 I’m currently learning to be master in FrontEnd Developement
-- 📫 How to reach me on following channels:
+# Hi, I'm Bhawana Shanker 👩‍💻
 
-Portfolio : https://bhawanashanker-github-io.vercel.app/
-Linkedin : https://www.linkedin.com/in/bhawanashanker/
-Gmail: mailto:bhawanashanker22dec@gmail.com
-Facebook: https://www.facebook.com/Ruchi1295/
-Twitter: https://x.com/shankerdev2212
+Frontend developer passionate about turning ideas into clean, engaging web experiences.
 
+---
 
-<!---
-developershanker/dhttps://www.facebook.com/Ruchi1295/evelopershanker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+
+- 🚀 Building innovative products with modern web technologies
+- 🌱 Deepening my expertise in Frontend Development
+- ✨ Love crafting interfaces that are as intuitive as they are beautiful
+
+---
+
+### Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhawanashanker-github-io.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhawanashanker/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhawanashanker22dec@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shankerdev2212)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Ruchi1295/)

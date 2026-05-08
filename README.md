@@ -66,5 +66,6 @@ architecture, thoughtful UI design, and writing code that scales.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shankerdev2212)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Ruchi1295/)
 
+### GitHub Activity
 
-![Bhawana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developershanker&show_icons=true&theme=default)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developershanker&theme=default)

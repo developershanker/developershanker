@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bhawana Shanker 👩‍💻</h1>
 <p align="center">
-  Frontend Developer · 3+ Years Experience · React & Next.js Specialist
+  Frontend Developer · 5+ Years Experience · React, React Native & Next.js Specialist
 </p>
 
 <p align="center">
